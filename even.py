@@ -1,9 +1,9 @@
 n=int(raw_input())
 if(n>=0):
 if (n % 2 ==0):
-	print("Even")
+      print("Even")
 elif(n>=0):
-	print("Odd")
+     print("Odd")
 else:
-	print("Invalid")
+     print("Invalid")
  
