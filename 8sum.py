@@ -2,7 +2,7 @@ n=int(raw_input())
 num = int(input("enter the value of n: "))
 hold = num
 sum = 0
-f num<= 0:
+if num <= 0:
    print("enter a whole positive number!")
 else:
    while num > 0:
