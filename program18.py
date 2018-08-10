@@ -5,6 +5,6 @@ for num in range(n,r):
      while temp>0:
            digit=temp%10
            sum+=digit**3
-           temp //=0
+           temp //=10
      if num == sum:
            print(num)
