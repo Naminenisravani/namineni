@@ -1,8 +1,8 @@
 n,a,d=map(int,raw_input().split())
 sum=0
-i=0
-while(i<n):
+b=0
+while(b<n):
 	sum=sum+a
 	a=a+d
-	i=i+1
+	b=b+1
 print sum
