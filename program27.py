@@ -1,4 +1,5 @@
 n=input()
 if n.isnumeric():
     print("Yes")
-else("No")    
+else:
+    print("No")    
