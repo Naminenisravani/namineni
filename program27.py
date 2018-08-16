@@ -1,4 +1,4 @@
-n=(float()
+n=float()
 str = 'a123'
 #str = '123'
 try:
