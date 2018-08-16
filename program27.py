@@ -1,4 +1,4 @@
-n=float(raw_input().split())
+n=(float().split())
 str = 'a123'
 #str = '123'
 try:
